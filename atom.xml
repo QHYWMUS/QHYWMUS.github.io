@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/QHYWMUS/QHYWMUS.github.io</id>
-    <title></title>
-    <updated>2020-08-12T02:50:49.494Z</updated>
+    <title>QHYWMUS</title>
+    <updated>2020-08-12T04:12:30.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/QHYWMUS/QHYWMUS.github.io"/>
     <link rel="self" href="https://github.com/QHYWMUS/QHYWMUS.github.io/atom.xml"/>
     <subtitle>I AK IOI</subtitle>
     <logo>https://github.com/QHYWMUS/QHYWMUS.github.io/images/avatar.png</logo>
     <icon>https://github.com/QHYWMUS/QHYWMUS.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, </rights>
+    <rights>All rights reserved 2020, QHYWMUS</rights>
 </feed>
